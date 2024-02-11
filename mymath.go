@@ -1,4 +1,4 @@
-package github.com/mzayni/mymath
+package mymath
 
 import "math"
 
