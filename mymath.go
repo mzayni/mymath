@@ -27,7 +27,7 @@ func Min(x, y float64) float64 {
 }
 
 func Yn(n int, x float64) float64 {
-	return math.Yn(x, y)
+	return math.Yn(n, x)
 }
 
 func Abs(x float64) float64 {
